@@ -1,2 +1,2 @@
 # hello-world
-My first repo!
+Github doesn't seem as difficult as I once made it out to be.
